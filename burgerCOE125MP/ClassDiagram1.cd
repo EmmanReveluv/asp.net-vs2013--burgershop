@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="burgerCOE125MP.contact">
+    <Position X="0.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAEAAAAAAAAAAAAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>contact.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="burgerCOE125MP.customlist">
+    <Position X="4" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>customlist.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="burgerCOE125MP.index">
+    <Position X="16.5" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAFAAAAAAAAAAAIAQQAAAAgAAAAICAQI=</HashCode>
+      <FileName>index.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="burgerCOE125MP.inventory">
+    <Position X="12.25" Y="4.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AIGAAIAACAAAAEAAAAAAAAAAAAASgAAAAAAAAAIQCAY=</HashCode>
+      <FileName>inventory.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="burgerCOE125MP.login">
+    <Position X="0.5" Y="3" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AECAAKAAAAgEAMAgAAAAAAICCAAQiAiCBAAQAAJgAEA=</HashCode>
+      <FileName>login.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="burgerCOE125MP.makeyourown">
+    <Position X="12.25" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAEAABACAABBgAAAAAAAAIAAQAAIAAAA=</HashCode>
+      <FileName>makeyourown.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="burgerCOE125MP.managediscounts">
+    <Position X="8" Y="7.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>managediscounts.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="burgerCOE125MP.manageorders">
+    <Position X="4.5" Y="2.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAEAAAAAAAAAAAAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>manageorders.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="burgerCOE125MP.premade">
+    <Position X="4.25" Y="8.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>premade.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="burgerCOE125MP.search">
+    <Position X="0.5" Y="9.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAFAAAAAAAAAAAAAQAAAAAAAAAAICAAI=</HashCode>
+      <FileName>search.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="burgerCOE125MP.track">
+    <Position X="4.25" Y="5.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAgQAAAAUAAAAQIAAAA=</HashCode>
+      <FileName>track.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="burgerCOE125MP.tray">
+    <Position X="8.25" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAABgAEAAAOIAAEAAAAAgCCIQgAAIBEAAIAoiCQQ=</HashCode>
+      <FileName>tray.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
